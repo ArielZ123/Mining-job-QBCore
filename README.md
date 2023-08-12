@@ -1,3 +1,5 @@
+[![Scrapman-job](https://img.shields.io/badge/Lua-Fivem-orange)](https://img.shields.io/badge/Lua-Fivem-orange)
+#
 ***Hi good to see you again :raised_hand_with_fingers_splayed:, I am here with a new release for you guys but before i start let me thank two people:***
 
 ***@dividerz, thank you for the help with a small part of the code mate :wink:.***
@@ -16,7 +18,11 @@
 ***If you have any ideas you can suggest here!.***
 
 ***[📕]Script Settings:***
-***things that you can do: I left for you in the client side and the server side, several guidance instructions that can help you.***
+***Config.Lua - > will give you the option to switch between the old esx to the new one (esx legacy).***
+***If you are using the esx legacy version please set the config to false and do the following thing:***
+***Go to -> fxmanifest.lua - > then go to -> shared_scripts and then add this line -> '@es_extended/imports.lua' under -> 'main/config.lua'.***
+
+***For the other things that you can do i left for you in the client side and the server side, several guidance instructions that can help you.***
 ***If you still have any problems leave me a message.***
 
 ***[📕]Script Dependencies:***
