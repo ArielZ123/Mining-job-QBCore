@@ -1,5 +1,3 @@
-[![Scrapman-job](https://img.shields.io/badge/Lua-Fivem-orange)](https://img.shields.io/badge/Lua-Fivem-orange)
-#
 ***Hi good to see you again :raised_hand_with_fingers_splayed:, I am here with a new release for you guys but before i start let me thank two people:***
 
 ***@dividerz, thank you for the help with a small part of the code mate :wink:.***
