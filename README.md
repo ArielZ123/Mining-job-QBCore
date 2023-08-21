@@ -53,8 +53,6 @@ https://media.discordapp.net/attachments/972536964022677534/1032745929339584624/
 Ms when you are inside the markers of the job: 
 https://media.discordapp.net/attachments/972536964022677534/1032746023795294218/unknown.png
 
-[🔎]qbcore version:
-Soon...📏
 
 [📕]In conclusion: I am trying my best its really hard to keep while army serving but i want to go in the same way and share with the community my scripts.
  If you find any problems or want to help me to improve something let me know, and stay tuned for updates for this script as i told at the beginning.
