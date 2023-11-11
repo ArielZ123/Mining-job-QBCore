@@ -30,7 +30,7 @@ local Rocks_sell_pos = { -- Add more positions to the rocks sell.
 }
 
 AddEventHandler('onResourceStart', function(resourceName)
-  if resourceName == 'Mining-job-QBCore' then --> If you change the script name please put the new name here!.
+  if resource == GetCurrentResourceName() then
      IsPlayerConnected = true
   end
 end)
